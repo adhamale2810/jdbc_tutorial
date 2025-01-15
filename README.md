@@ -1,4 +1,3 @@
-
 # JDBC CRUD Tutorial
 
 <p>This project contains all the CRUD Operations performed using JDBC thin Driver.<br>
